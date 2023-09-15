@@ -9,6 +9,10 @@ Make sure you have the OPEN API key and other keys in env file.
 
 - Takes document as an input and answers given questions within the document
 
+## Demo
+<img width="1390" alt="Screenshot 2023-09-15 at 6 58 48 PM" src="https://github.com/sarat9/langchain-documind/assets/17333491/c46c3d7a-0258-4fc4-a396-113631596652">
+
+
 ## Getting Started
 
 Below are three ways of doing the same thing in three files
@@ -35,4 +39,8 @@ Langchain-Documind can be integrated with Chroma DB, a powerful database system,
 To use Chroma DB with Langchain-Documind:
 
 This doesnt need an external vector DB and runs on your local.
+
+
+![Flow Diagram](https://github.com/sarat9/langchain-documind/assets/17333491/05a455be-6e81-4b60-b101-68737fe9e1bb)
+
 
